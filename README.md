@@ -1,2 +1,2 @@
-# CrudPHPWeb
-CRUD con PHP, PDO, Ajax, Datatables y Bootstrap 5
+# Herramientas requeridas
+XAMPP, Visual Studio Code
